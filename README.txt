@@ -1,31 +1,40 @@
-Photon by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Datasmith Unbound
+Welcome to Datasmith Unbound! This repository hosts the code for my personal website showcasing my data analytics portfolio.
 
+Overview:
+Datasmith Unbound is a platform where I share my passion for data analytics, exploration of various datasets, and insights derived from them. The website includes sections such as:
 
-A simple (gradient-heavy) single pager that revisits a style I messed with on two
-previous designs (Tessellate and Telephasic). Fully responsive, built on Sass,
-and, as usual, loaded with an assortment of pre-styled elements. Have fun! :)
+About: 
+A brief introduction to myself and my background in data analytics.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Portfolio: Highlights of projects I've worked on, including:
+Netflix data analysis
+Video game sales trends
+Heart failure clinical records analysis
+COVID-19 pandemic data analysis
 
-(* = Not included)
+Contact: 
+A form for visitors to reach out for collaborations or inquiries.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Features:
+Responsive design for seamless viewing on all devices.
+Interactive sections with visualizations and data summaries.
 
-AJ
-aj@lkn.io | @ajlkn
+Technologies and ProgramsUsed:
+HTML
+Microsoft Excel
+Python
+SQL
+JavaScript
+Tableau
 
+Getting Started: To view the website:
+https://datasmithunbound.github.io/Datasmith-Unbound/
 
-Credits:
+Usage:
+Feel free to explore different sections of the website to learn about my data analytics projects and insights.
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Contact:
+Email: moore.carson@outlook.com
+LinkedIn: Carson Davis Moore
+GitHub: moorecarson64
