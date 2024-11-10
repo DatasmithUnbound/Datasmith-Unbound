@@ -36,5 +36,4 @@ Feel free to explore different sections of the website to learn about my data an
 
 Contact:
 Email: moore.carson@outlook.com
-LinkedIn: Carson Davis Moore
-GitHub: moorecarson64
+LinkedIn: https://www.linkedin.com/in/carsondavismoore/
