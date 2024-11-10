@@ -25,7 +25,6 @@ HTML
 Microsoft Excel
 Python
 SQL
-JavaScript
 Tableau
 
 Getting Started: To view the website:
