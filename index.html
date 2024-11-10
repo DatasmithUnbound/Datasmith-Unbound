@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		<style>
-			/* Ensure the entire project section rows and columns are styled with Flexbox */
+			/* Project card styling to align buttons at the bottom */
 			#three .row {
 				display: flex;
 				flex-wrap: wrap;
@@ -15,8 +15,9 @@
 			#three .col-3 {
 				display: flex;
 				flex-direction: column;
-				height: 100%; /* Ensure full height for each card */
-				padding: 20px; /* Optional: Add padding for better spacing */
+				height: 100%;
+				min-height: 500px; /* Set a minimum height to ensure uniformity */
+				padding: 20px;
 				box-sizing: border-box;
 			}
 
@@ -26,12 +27,12 @@
 			}
 
 			#three .col-3 p {
-				flex-grow: 1; /* Expands to take available space, pushing button down */
+				flex-grow: 1;
 				margin-bottom: 10px;
 			}
 
 			#three .col-3 ul.actions.special {
-				margin-top: auto; /* Forces the button to the bottom */
+				margin-top: auto;
 			}
 		</style>
 	</head>
